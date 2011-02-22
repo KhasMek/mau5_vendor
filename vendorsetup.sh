@@ -1,0 +1,3 @@
+add_lunch_combo mau5_fascinate-userdebug
+add_lunch_combo mau5_fascinate-eng
+
