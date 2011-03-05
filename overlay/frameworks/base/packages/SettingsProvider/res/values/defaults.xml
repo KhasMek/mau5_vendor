@@ -18,4 +18,5 @@
 -->
 <resources>
     <integer name="def_clock_color">0xff00ffff</integer>
+    <bool name="def_center_battery_percent">true</bool>
 </resources>
