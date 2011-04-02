@@ -1,2 +1,2 @@
-add_lunch_combo mau5_fascinate-eng
+add_lunch_combo mau5_vzwtab-eng
 

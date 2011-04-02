@@ -1,7 +1,7 @@
-# Inherit AOSP device configuration for fascinate.
-$(call inherit-product, device/samsung/fascinate/full_fascinate.mk)
+# Inherit AOSP device configuration for vzwtab.
+$(call inherit-product, device/samsung/vzwtab/full_vzwtab.mk)
 
-PRODUCT_NAME := mau5_fascinate
+PRODUCT_NAME := mau5_vzwtab
 
 # Set Default Ringtone
 PRODUCT_PROPERTY_OVERRIDES += \
